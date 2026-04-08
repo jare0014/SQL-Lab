@@ -1,0 +1,19 @@
+# Python bytecode (compiled files)
+__pycache__/
+*.py[cod]
+
+# Jupyter Notebook checkpoints (the most common clutter)
+.ipynb_checkpoints/
+
+# Virtual Environments (never upload these!)
+venv/
+env/
+.env
+
+# Large Data files (Keep your repo light)
+*.csv
+*.json
+*.sqlite
+
+# System files
+.DS_Store
