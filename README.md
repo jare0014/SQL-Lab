@@ -31,8 +31,12 @@ Tech Used
 SQL (BigQuery): Focus on relational algebra and set theory.
 Python (Google Cloud API): Using the client library to orchestrate data flow.
 Pandas: Strictly for final formatting and visualization.
+folium: Interactive map widget for plotting crimes by GPS coordinate
 
-Current Progress
+Current Progress:
+
 [x] Programmatic Schema Inspection
+
 [x] Efficient Data Retrieval
+
 [ ] Complex Aggregations & Joins (Next)
